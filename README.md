@@ -7,7 +7,6 @@ My name is Bárbara. Welcome to my profile.
 
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibabi&layout=compact&langs_count=7&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibabi&show_icons=true&theme=material-palenight&include_all_commits=true"><a href="https://stackoverflow.com/users/story/5679285"></a>
 </div>
   
 <h2>Find me:</h2>

@@ -1,6 +1,5 @@
 <p align=center>
-Hi there 👋 <br>
-My name is Bárbara. I'm 20 years and and I'm learning Java.
+Hi there 👋
 </p>
 
 <h2>Stats:</h2>
